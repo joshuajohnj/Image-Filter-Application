@@ -1,4 +1,4 @@
-Image Filtering Application
+#Image Filtering Application
 -------------------------------------------------------------------------------------- 
 This document proposes an application with the purpose of re-configuring images to be stylized with a specific filter. When a user inputs an image into the application, the image will be recognized and adjusted based on its exposure, brightness, and overall image specifications. The application also will allow the user to input an array of images which will then be filtered and arranged in an overlay styled collage and returned.
 
